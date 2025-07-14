@@ -8,7 +8,7 @@ Each file in this repo is a small experiment with basic HTML elements as I learn
 ## 📄 Files
 
 - [`index.html`](index.html): A simple page with a heading and a paragraph
-- [`jump-title.html`](jump-title.html): Internal navigation using anchor tags and IDs
+- [`jump-file.html`](jump-file.html): Internal navigation using anchor tags and IDs
 
 (…more files will be added as I learn!)
 
